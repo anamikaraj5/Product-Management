@@ -46,3 +46,5 @@ npm run dev
 ```
 
 Your application can be now tested using postman  will  at http://localhost:8008 🎉
+
+Postman Documentation - https://documenter.getpostman.com/view/41286671/2sB2j3ArB1
